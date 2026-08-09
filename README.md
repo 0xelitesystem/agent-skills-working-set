@@ -46,6 +46,10 @@ Every skill in this repo:
 
 Got a working skill? PR welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) for the structure and submission checklist.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. Each skill is MIT licensed individually so you can copy one without inheriting the rest.
