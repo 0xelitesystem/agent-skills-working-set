@@ -54,6 +54,8 @@ Part of a catalog of single-file browser tools and plain-language references, al
 
 MIT. Each skill is MIT licensed individually so you can copy one without inheriting the rest.
 
+Independent project. Not affiliated with, endorsed by, or sponsored by Anthropic. Claude is a trademark of Anthropic PBC.
+
 ## Related
 
 - [claude-skills-templates](https://github.com/0xelitesystem/claude-skills-templates), spec and starter templates
