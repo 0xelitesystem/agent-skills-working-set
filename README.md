@@ -1,4 +1,6 @@
-# claude-skills-collection
+# agent-skills-working-set
+
+Formerly claude-skills-collection. The old repository address redirects here.
 
 Curated, working Claude Skills you can drop into any project. Each skill is in its own folder with `SKILL.md` plus any reference files. All MIT licensed and contributor-friendly.
 
