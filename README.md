@@ -62,4 +62,4 @@ Independent project. Not affiliated with, endorsed by, or sponsored by Anthropic
 
 - [claude-skills-templates](https://github.com/0xelitesystem/claude-skills-templates), spec and starter templates
 - [claude-skills-validator](https://github.com/0xelitesystem/claude-skills-validator), lint your own skill files
-- [prompt-templates](https://github.com/0xelitesystem/prompt-templates), production prompts
+- [failure-mode-prompts](https://github.com/0xelitesystem/failure-mode-prompts), production prompts
